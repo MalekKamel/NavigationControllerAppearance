@@ -1,5 +1,5 @@
 # AppearanceNavigationController
-This is an excellent design for `NavigationController` appearance of `NavigationBar` and `ToolBar`  by Yalantis.
+This is an excellent design for appearance of `NavigationBar` and `ToolBar`  by Yalantis.
 ### What's the difference?
 - [ ] I updated the code to Swift 4
 - [ ] Improved code for better readability and copying to your project.
