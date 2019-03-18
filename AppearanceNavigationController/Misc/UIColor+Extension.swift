@@ -6,18 +6,7 @@ extension UIColor {
     
     // used solution from http://stackoverflow.com/a/29806108/4405316
     var brightness: CGFloat {
-//        let colorSpace = CGColorGetColorSpace(CGColor)
-//        let colorSpaceModel = CGColorSpaceGetModel(colorSpace)
-        
-        var brightness: CGFloat = 0.0
-//        if colorSpaceModel == .RGB {
-//            let components = CGColorGetComponents(CGColor)
-//            brightness = ((components[0] * 299) + (components[1] * 587) + (components[2] * 114)) / 1000
-//        } else {
-//            getWhite(&brightness, alpha: nil)
-//        }
-//
-        return brightness
+        return 0.0
     }
     
     var isBright: Bool {
