@@ -1,4 +1,4 @@
-# AppearanceNavigationController
+# NavigationControllerAppearance
 This is an excellent design for appearance of `NavigationBar` and `ToolBar`  by Yalantis.
 ### What's the difference?
 - [ ] I updated the code to Swift 4
