@@ -1,4 +1,8 @@
 # AppearanceNavigationController
+This is an excellent design for `NavigationController` by Yalantis. I updated the code to Swift 4 and improved code for better readability and copying to your project.
+
+## Original Description
+
 Sample of navigation controller appearance configuration from our [blog post](https://yalantis.com/blog/declarative-navigation-bar-appearance-configuration/).
 
 
